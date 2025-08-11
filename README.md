@@ -1,6 +1,9 @@
 # 🐍 Imersão de Dados com Python
 _Projeto desenvolvido durante a Imersão de Dados (Alura) com o objetivo de praticar técnicas e ferramentas de análise de dados em Python. O material reúne notebooks, exercícios e códigos desenvolvidos ao longo das aulas, com foco em manipulação, visualização e preparação de dados._
 
+> [!NOTE]
+> **Acesse a aplicação do projeto aqui:** _[Imersão de Dados com Python](https://2025-python-imersao-dados-alura.streamlit.app/)_.
+
 ## Conceitos envolvidos 📚
 - Leitura e escrita de dados (`CSV`);
 - As bibliotecas `pandas`, `numpy`, `matplotlib`, `seaborn`;
@@ -20,3 +23,4 @@ Imersao-Dados-Python/
 
 ## Autor ✍️
 Ofertado e ensinado pela [Alura](https://www.alura.com.br/).
+
