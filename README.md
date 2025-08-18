@@ -24,8 +24,9 @@ Imersao-Dados-Python/
 ## Autor ✍️
 Ofertado e ensinado pela [Alura](https://www.alura.com.br/).
 
-## :memo: Licença
+## Licença :memo:
 
 Esse projeto está sob a licença MIT.
+
 
 
